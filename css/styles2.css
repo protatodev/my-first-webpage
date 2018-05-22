@@ -1,3 +1,20 @@
+html {
+  color: white;
+}
+
+body {
+  background-image: linear-gradient(grey, black);
+}
+
 h1 {
+  text-align: center;
   color: blue;
+}
+
+h3 {
+  text-align: left;
+}
+
+img {
+  vertical-align: text-bottom;
 }
